@@ -16,7 +16,4 @@ I am a recovering physical oceanographer and aspiring research software engineer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=callumrollo&show_icons=true)
 
-### Other
-
-
 I'm like wish.com [ocefpaf](https://github.com/ocefpaf)
